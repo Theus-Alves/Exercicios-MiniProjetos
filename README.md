@@ -6,14 +6,14 @@ Bem-vindo ao meu portfólio de exercícios e mini projetos! Este repositório co
 
 - O diretório "exercicios" contém uma variedade de exercícios acadêmicos que abordam diferentes conceitos e desafios em Python.
 - O diretório "projetos" contém meus mini projetos, onde explorei diferentes domínios e aplicativos práticos da linguagem.
-- Cada diretório de exercício ou projeto contém um arquivo principal com o código fonte, juntamente com quaisquer arquivos de suporte necessários.
+- Cada diretório de exercicios ou projeto contém um arquivo principal com o código fonte, juntamente com quaisquer arquivos de suporte necessários.
 - Para cada exercício ou projeto, você encontrará uma breve descrição do propósito, tecnologias utilizadas e uma explicação dos principais conceitos abordados.
 
 ## Lista de Exercícios e Projetos
 
 Aqui está uma lista dos principais exercícios e projetos incluídos neste portfólio até o momento:
 
-- [Projeto: Sistema Bancário DIO](projetos/sistema_bancario/banco.py): Implementação de um sistema bancário com POO que permite depósitos, saques e exibição de extrato.
+- [Projeto: Sistema Bancário DIO](exercicios/sistema_bancario/banco.py): Implementação de um sistema bancário com POO que permite depósitos, saques e exibição de extrato.
 
 ## Como Executar os Códigos
 
