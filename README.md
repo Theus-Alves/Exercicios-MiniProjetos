@@ -32,6 +32,6 @@ Sinta-se à vontade para explorar os exercícios e projetos neste portfólio. Se
 ## Contato
 
 - E-mail: teoalves.dev@gmail.com
-- LinkedIn: https://www.linkedin.com/teoalvesdev
+- LinkedIn: [https://www.linkedin.com/teoalvesdev](https://www.linkedin.com/in/teoalvesdev/)
 
 Agradeço por visitar meu portfólio e espero que você encontre os exercícios e projetos úteis e interessantes. Divirta-se explorando e aprendendo com eles :)
