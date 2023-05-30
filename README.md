@@ -11,7 +11,7 @@ Bem-vindo ao meu portfólio de exercícios e mini projetos! Este repositório co
 ## Lista de Exercícios e Projetos
 
 - [Projetos Python](projetos/python/): Uma serie de programas feito em python.
-- [Projetos C#](projetos/c#/): Uma serie de programas feito em c#.
+- [Projetos C#](projetos/c%23/): Uma serie de programas feito em c#.
 - [Projetos SQL](projetos/sql/): Uma serie de exercicios SQL.
 
 
