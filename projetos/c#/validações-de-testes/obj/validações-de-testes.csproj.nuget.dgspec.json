@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Área Dev\\Exercicios-MiniProjetos\\projetos\\c#\\consultas-relacionais-SQLServer\\consultas-relacionais-SQLServer.csproj": {}
+    "D:\\Matheus\\Exercicios-MiniProjetos-main\\projetos\\c#\\validações-de-testes\\validações-de-testes.csproj": {}
   },
   "projects": {
-    "D:\\Área Dev\\Exercicios-MiniProjetos\\projetos\\c#\\consultas-relacionais-SQLServer\\consultas-relacionais-SQLServer.csproj": {
+    "D:\\Matheus\\Exercicios-MiniProjetos-main\\projetos\\c#\\validações-de-testes\\validações-de-testes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Área Dev\\Exercicios-MiniProjetos\\projetos\\c#\\consultas-relacionais-SQLServer\\consultas-relacionais-SQLServer.csproj",
-        "projectName": "consultas-relacionais-SQLServer",
-        "projectPath": "D:\\Área Dev\\Exercicios-MiniProjetos\\projetos\\c#\\consultas-relacionais-SQLServer\\consultas-relacionais-SQLServer.csproj",
-        "packagesPath": "C:\\Users\\theusz\\.nuget\\packages\\",
-        "outputPath": "D:\\Área Dev\\Exercicios-MiniProjetos\\projetos\\c#\\consultas-relacionais-SQLServer\\obj\\",
+        "projectUniqueName": "D:\\Matheus\\Exercicios-MiniProjetos-main\\projetos\\c#\\validações-de-testes\\validações-de-testes.csproj",
+        "projectName": "validações-de-testes",
+        "projectPath": "D:\\Matheus\\Exercicios-MiniProjetos-main\\projetos\\c#\\validações-de-testes\\validações-de-testes.csproj",
+        "packagesPath": "C:\\Users\\Leidiellen\\.nuget\\packages\\",
+        "outputPath": "D:\\Matheus\\Exercicios-MiniProjetos-main\\projetos\\c#\\validações-de-testes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\theusz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Leidiellen\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -38,9 +38,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "System.Data.SqlClient": {
+            "NUnit": {
               "target": "Package",
-              "version": "[4.8.5, )"
+              "version": "[3.13.3, )"
             }
           },
           "imports": [
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

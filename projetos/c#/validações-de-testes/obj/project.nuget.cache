@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9i0AAUjC8ZhN8nhP+nHgT7bZFbN9Vm09rL7uei43fspY4oseqvtvFBmfHkVeRIV57X5FFL2Dv50AstHoUQ0SUA==",
+  "success": true,
+  "projectFilePath": "D:\\Matheus\\Exercicios-MiniProjetos-main\\projetos\\c#\\validações-de-testes\\validações-de-testes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leidiellen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Leidiellen\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Leidiellen\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

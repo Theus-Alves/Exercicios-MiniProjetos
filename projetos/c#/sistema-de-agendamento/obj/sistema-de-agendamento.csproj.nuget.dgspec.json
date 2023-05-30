@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Área Dev\\Exercicios-MiniProjetos\\projetos\\c#\\consultas-relacionais-SQLServer\\consultas-relacionais-SQLServer.csproj": {}
+    "D:\\Matheus\\Exercicios-MiniProjetos-main\\projetos\\c#\\sistema-de-agendamento\\sistema-de-agendamento.csproj": {}
   },
   "projects": {
-    "D:\\Área Dev\\Exercicios-MiniProjetos\\projetos\\c#\\consultas-relacionais-SQLServer\\consultas-relacionais-SQLServer.csproj": {
+    "D:\\Matheus\\Exercicios-MiniProjetos-main\\projetos\\c#\\sistema-de-agendamento\\sistema-de-agendamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Área Dev\\Exercicios-MiniProjetos\\projetos\\c#\\consultas-relacionais-SQLServer\\consultas-relacionais-SQLServer.csproj",
-        "projectName": "consultas-relacionais-SQLServer",
-        "projectPath": "D:\\Área Dev\\Exercicios-MiniProjetos\\projetos\\c#\\consultas-relacionais-SQLServer\\consultas-relacionais-SQLServer.csproj",
-        "packagesPath": "C:\\Users\\theusz\\.nuget\\packages\\",
-        "outputPath": "D:\\Área Dev\\Exercicios-MiniProjetos\\projetos\\c#\\consultas-relacionais-SQLServer\\obj\\",
+        "projectUniqueName": "D:\\Matheus\\Exercicios-MiniProjetos-main\\projetos\\c#\\sistema-de-agendamento\\sistema-de-agendamento.csproj",
+        "projectName": "sistema-de-agendamento",
+        "projectPath": "D:\\Matheus\\Exercicios-MiniProjetos-main\\projetos\\c#\\sistema-de-agendamento\\sistema-de-agendamento.csproj",
+        "packagesPath": "C:\\Users\\Leidiellen\\.nuget\\packages\\",
+        "outputPath": "D:\\Matheus\\Exercicios-MiniProjetos-main\\projetos\\c#\\sistema-de-agendamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\theusz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Leidiellen\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -38,9 +38,13 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "System.Data.SqlClient": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[4.8.5, )"
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
             }
           },
           "imports": [
@@ -59,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

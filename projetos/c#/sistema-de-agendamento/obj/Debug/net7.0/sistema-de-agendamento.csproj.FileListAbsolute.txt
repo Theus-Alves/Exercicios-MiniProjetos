@@ -1,0 +1,5 @@
+D:\Matheus\Exercicios-MiniProjetos-main\projetos\c#\sistema-de-agendamento\obj\Debug\net7.0\sistema-de-agendamento.csproj.AssemblyReference.cache
+D:\Matheus\Exercicios-MiniProjetos-main\projetos\c#\sistema-de-agendamento\obj\Debug\net7.0\sistema-de-agendamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Matheus\Exercicios-MiniProjetos-main\projetos\c#\sistema-de-agendamento\obj\Debug\net7.0\sistema-de-agendamento.AssemblyInfoInputs.cache
+D:\Matheus\Exercicios-MiniProjetos-main\projetos\c#\sistema-de-agendamento\obj\Debug\net7.0\sistema-de-agendamento.AssemblyInfo.cs
+D:\Matheus\Exercicios-MiniProjetos-main\projetos\c#\sistema-de-agendamento\obj\Debug\net7.0\sistema-de-agendamento.csproj.CoreCompileInputs.cache

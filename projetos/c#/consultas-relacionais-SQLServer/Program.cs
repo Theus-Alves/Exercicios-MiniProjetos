@@ -33,8 +33,8 @@ namespace ConsultasRelacionais
                             // Iterar sobre as linhas do resultado
                             while (reader.Read())
                             {
-                                string nomeFuncionario = reader["NomeFuncionario"].ToString();
-                                string nomeDepartamento = reader["NomeDepartamento"].ToString();
+                                string? nomeFuncionario = reader["NomeFuncionario"].ToString();
+                                string? nomeDepartamento = reader["NomeDepartamento"].ToString();
 
                                 Console.WriteLine($"Funcionário: {nomeFuncionario}, Departamento: {nomeDepartamento}");
                             }
