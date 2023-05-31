@@ -1,1 +1,4 @@
-explicação do exercício
+#!!! Atençao
+
+**projetos sql ainda em desenvolvimento**
+
